@@ -1,0 +1,1 @@
+['http://www.bhealthyyou.com/', 'http://www.bhealthyyou.com/about/', 'http://www.bhealthyyou.com/blog/', 'http://www.bhealthyyou.com/contact/', 'http://www.bhealthyyou.com/subscribe-2/']
